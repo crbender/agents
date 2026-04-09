@@ -25,7 +25,7 @@ In there, add the variables needed to run this project:
 ```
 AZURE_API_BASE=""
 AZURE_API_VERSION="2024-05-01-preview"
-AZURE_OPENAI_DEPLOYMENT_NAME = "gpt-4o"
+AZURE_OPENAI_DEPLOYMENT_NAME="gpt-4o"
 TAVILY_API_KEY=""
 AZURE_OPENAI_API_KEY=""
 AZURE_OPENAI_ENDPOINT=""
