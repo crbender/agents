@@ -21,10 +21,5 @@
     "hostRequirements": {
         "memory": "8gb"
     },
-    "runArgs": [
-        "--privileged",
-        "--cap-add=NET_ADMIN",
-        "--security-opt=apparmor=unconfined",
-        "--security-opt=seccomp=unconfined"
-    ]
+    "runArgs": []
 }
